@@ -14,5 +14,13 @@
     "nodemon": "^2.0.19"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "This is a testing project for web scraping learnt from Ania Kubow [YouTube](https://www.youtube.com/watch?v=-3lqUHeZs_0&t=1142s)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinkHendrix/web-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PinkHendrix/web-scraper/issues"
+  },
+  "homepage": "https://github.com/PinkHendrix/web-scraper#readme"
 }
